@@ -30,6 +30,9 @@ Script that deletes/removes a file from a directory.
 9-firstdirdeletion
 Script that deletes a directory.
 
+10-back
+Script that changes the working directory to the previous directory
+
 11-lists
 Command that lists the contents of multiple directories.
 
@@ -41,4 +44,7 @@ Command to create a symbolic link.
 
 14-copy_html
 Script that copies all html files from the working directory to the parent directory, but updates the parent directory with newer versions of the files.
+
+100-lets_move
+Script that moves all files beginning with an uppercase letter to another directory.
 
