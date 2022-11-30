@@ -37,4 +37,8 @@ Command that lists the contents of multiple directories.
 Script that prints the type of file
 
 13-symbolic_link
-Command to create a symbolic link
+Command to create a symbolic link.
+
+14-copy_html
+Script that copies all html files from the working directory to the parent directory, but updates the parent directory with newer versions of the files.
+
