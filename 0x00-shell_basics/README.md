@@ -27,3 +27,6 @@ Script that moves a file to a directory.
 8-firstdelete
 Script that deletes/removes a file from a directory.
 
+9-firstdirdeletion
+Script that deletes a directory.
+
