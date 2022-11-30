@@ -55,5 +55,5 @@ Script that deletes/removes all files in the current working directory that ends
 Script that creates a tree of directories.
 
 103-commas
-Script that lists the files and sub-directories in the working directory all separated by commas and listed in numeric order.
+Script that lists the files and sub-directories in the working directory all separated by commas and listed in numeric order and the / character appended to the directories.
 
