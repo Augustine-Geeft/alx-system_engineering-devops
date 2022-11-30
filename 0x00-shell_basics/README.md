@@ -30,3 +30,6 @@ Script that deletes/removes a file from a directory.
 9-firstdirdeletion
 Script that deletes a directory.
 
+11-lists
+Command that lists the contents of multiple directories.
+
