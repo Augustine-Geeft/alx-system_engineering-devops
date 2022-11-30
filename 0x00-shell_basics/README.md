@@ -22,4 +22,8 @@ Command that displays the contents of the working directory in a numeric long fo
 Script that creates a directory.
 
 7-movethatfile
-Script that moves a file to a directory
+Script that moves a file to a directory.
+
+8-firstdelete
+Script that deletes/removes a file from a directory.
+
