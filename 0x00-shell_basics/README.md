@@ -14,3 +14,6 @@ Command that displays the contents of your working directory in a long list form
 
 4-listmorefiles
 Command that displays the content of the working directory including the hidden files, in a long list format.
+
+5-listfilesdigitonly
+Command that displays the contents of the working directory in a numeric long format along with hidden files.
