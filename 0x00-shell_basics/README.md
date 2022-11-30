@@ -17,3 +17,6 @@ Command that displays the content of the working directory including the hidden 
 
 5-listfilesdigitonly
 Command that displays the contents of the working directory in a numeric long format along with hidden files.
+
+6-firstdirectory
+Script that creates a directory.
