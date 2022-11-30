@@ -11,3 +11,6 @@ Command that changes the working directory to the user’s home directory.
 
 3-listfiles
 Command that displays the contents of your working directory in a long list format.
+
+4-listmorefiles
+Command that displays the content of the working directory including the hidden files, in a long list format.
