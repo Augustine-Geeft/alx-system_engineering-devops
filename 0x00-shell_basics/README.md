@@ -20,3 +20,6 @@ Command that displays the contents of the working directory in a numeric long fo
 
 6-firstdirectory
 Script that creates a directory.
+
+7-movethatfile
+Script that moves a file to a directory
