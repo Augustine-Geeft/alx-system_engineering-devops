@@ -52,4 +52,8 @@ Script that moves all files beginning with an uppercase letter to another direct
 Script that deletes/removes all files in the current working directory that ends with the character ~
 
 102-tree
-Script that creates a tree of directories
+Script that creates a tree of directories.
+
+103-commas
+Script that lists the files and sub-directories in the working directory all separated by commas and listed in numeric order.
+
