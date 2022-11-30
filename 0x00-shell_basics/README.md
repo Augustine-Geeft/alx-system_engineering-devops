@@ -48,3 +48,6 @@ Script that copies all html files from the working directory to the parent direc
 100-lets_move
 Script that moves all files beginning with an uppercase letter to another directory.
 
+101-clean_emacs
+Script that deletes/removes all files in the current working directory that ends with the character ~
+
