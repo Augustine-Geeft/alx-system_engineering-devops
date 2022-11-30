@@ -36,3 +36,5 @@ Command that lists the contents of multiple directories.
 12-file_type
 Script that prints the type of file
 
+13-symbolic_link
+Command to create a symbolic link
