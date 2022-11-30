@@ -51,3 +51,5 @@ Script that moves all files beginning with an uppercase letter to another direct
 101-clean_emacs
 Script that deletes/removes all files in the current working directory that ends with the character ~
 
+102-tree
+Script that creates a tree of directories
