@@ -1,5 +1,5 @@
 This directory contains the following files:
-0;276;0c
+
 0-iam_betty
 Script that switches the current user to a user named 'betty'
 
@@ -35,4 +35,7 @@ Script that sets the permission mode of a file, the same as another file.
 
 11-directories_permissions
 Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+
+12-directory_permissions
+Script that creates a directory with specific permissions in the working directory.
 
