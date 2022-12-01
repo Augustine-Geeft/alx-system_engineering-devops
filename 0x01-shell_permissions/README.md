@@ -42,4 +42,5 @@ Script that creates a directory with specific permissions in the working directo
 13-change_group
 Script that changes the group owner of a file.
 
-
+100-change_owner_and_group
+Script that changes both the owner and group owner of all the files and directories in the working directory.
