@@ -24,3 +24,6 @@ Script that adds execute permission to the owner and the group owner, and read p
 7-everybody
 Script that adds execution permission to the owner, the group owner and the other users of a file.
 
+8-James_Bond
+Script that sets all the permission to only other users (owner and group gets no permission) of the file.
+
