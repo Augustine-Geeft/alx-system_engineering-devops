@@ -27,3 +27,6 @@ Script that adds execution permission to the owner, the group owner and the othe
 8-James_Bond
 Script that sets all the permission to only other users (owner and group gets no permission) of the file.
 
+9-John_Doe
+Script that sets the permission of the file to -rwxr-x-wx.
+
