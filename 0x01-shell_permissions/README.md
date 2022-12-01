@@ -1,5 +1,5 @@
 This directory contains the following files:
-
+0;276;0c
 0-iam_betty
 Script that switches the current user to a user named 'betty'
 
@@ -29,4 +29,7 @@ Script that sets all the permission to only other users (owner and group gets no
 
 9-John_Doe
 Script that sets the permission of the file to -rwxr-x-wx.
+
+10-mirror_permissions
+Script that sets the permission mode of a file, the same as another file.
 
