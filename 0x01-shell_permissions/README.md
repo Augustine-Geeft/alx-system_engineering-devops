@@ -6,3 +6,6 @@ Script that switches the current user to a user named 'betty'
 1-who_am_i
 Script that prints the effective username of the current user.
 
+2-groups
+Script that prints all the groups the current user is part of.
+
