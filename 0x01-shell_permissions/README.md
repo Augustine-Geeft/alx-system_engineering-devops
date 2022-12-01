@@ -12,3 +12,6 @@ Script that prints all the groups the current user is part of.
 3-new_owner
 Script that changes the owner of a file (e.g: hello) to a different user (e.g: betty).
 
+4-empty
+Script that creates an empty file.
+
