@@ -44,3 +44,7 @@ Script that changes the group owner of a file.
 
 100-change_owner_and_group
 Script that changes both the owner and group owner of all the files and directories in the working directory.
+
+101-symbolic_link_permissions 
+Script that changes the owner and the group owner of a symbolic link.
+
