@@ -1,5 +1,5 @@
 This folder contains the following files:
-
+0;276;0c
 0-hello_world
 Script that prints “Hello, World”, followed by a new line to the standard output.
 
@@ -14,4 +14,7 @@ Script that displays the content of two files.
 
 4-lastlines 
 Script that displays the last 10 lines of a file.
+
+5-firstlines 
+Script that displays the first 10 lines of a file.
 
