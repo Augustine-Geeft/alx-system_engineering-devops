@@ -1,5 +1,5 @@
 This folder contains the following files:
-0;276;0c
+
 0-hello_world
 Script that prints “Hello, World”, followed by a new line to the standard output.
 
@@ -23,4 +23,7 @@ Script that displays a specific line.
 
 7-file 
 A shell script that creates a file with an specific name with characters.
+
+8-cwd_state 
+A script that redirect standard output to a file and overwrites the content of that file or creates it if it doesn't exist.
 
