@@ -27,3 +27,6 @@ A shell script that creates a file with an specific name with characters.
 8-cwd_state 
 A script that redirect standard output to a file and overwrites the content of that file or creates it if it doesn't exist.
 
+9-duplicate_last_line 
+A script that duplicates the last line of a file.
+
