@@ -30,3 +30,5 @@ A script that redirect standard output to a file and overwrites the content of t
 9-duplicate_last_line 
 A script that duplicates the last line of a file.
 
+10-no_more_js 
+A script that deletes all the regular files (not the directories) with a specific extension that are present in the current directory and all its subfolders.
