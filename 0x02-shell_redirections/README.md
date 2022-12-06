@@ -48,3 +48,6 @@ A script that display lines containing the pattern “root” from a file.
 15-countthatword 
 A script that display the number of lines that contain the pattern 'bin' in a file.
 
+16-whatsnext 
+A script to display lines containing the pattern “root” and 3 lines after them in a file.
+
