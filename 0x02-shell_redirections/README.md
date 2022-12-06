@@ -54,7 +54,6 @@ A script to display lines containing the pattern “root” and 3 lines after th
 17-hidethisword 
 A script to display all the lines in a file that do not contain the pattern “bin”.
 
-
-
-
+18-letteronly 
+A script that displays all lines of a file starting with a letter.
 
