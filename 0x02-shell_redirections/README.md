@@ -51,3 +51,10 @@ A script that display the number of lines that contain the pattern 'bin' in a fi
 16-whatsnext 
 A script to display lines containing the pattern “root” and 3 lines after them in a file.
 
+17-hidethisword 
+A script to display all the lines in a file that do not contain the pattern “bin”.
+
+
+
+
+
