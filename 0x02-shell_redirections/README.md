@@ -45,3 +45,6 @@ A script that takes a list of words as input and prints only words that appear e
 14-findthatword 
 A script that display lines containing the pattern “root” from a file.
 
+15-countthatword 
+A script that display the number of lines that contain the pattern 'bin' in a file.
+
