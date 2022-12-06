@@ -42,3 +42,6 @@ A script that displays the 10 newest files in the current directory with one fil
 13-unique 
 A script that takes a list of words as input and prints only words that appear exactly once and prints the output in a one line one word format.
 
+14-findthatword 
+A script that display lines containing the pattern “root” from a file.
+
